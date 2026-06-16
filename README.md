@@ -13,12 +13,12 @@ Este proyecto consiste en un ejercicio de reconocimiento de red utilizando **Zen
 ### 1. Puertos Detectados y Servicios
 Aquí se muestran los puertos abiertos encontrados durante el análisis (por ejemplo, SSH en el puerto 22 o HTTP en el 80):
 
-![Puertos Detectados](Capturadepantalla1.png)
+![Puertos Detectados](Capturadepantalla2.png)
 
 ### 2. Topología de la Red
 Gráfico generado por Zenmap que muestra la ruta hacia el objetivo:
 
-![Topología de Red](Capturadepantalla2.png)
+![Topología de Red](Capturadepantalla1.png)
 
 ## 📊 Archivo de Resultados
 El reporte técnico generado por Zenmap se encuentra adjunto en este repositorio como `escaneo_zenmap.xml`.
